@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+  <!-- Background -->
+  <rect width="800" height="300" fill="#1a1a2e"/>
+  
+  <!-- Abstract Financial Network/Grid Background -->
+  <g opacity="0.15">
+    <path d="M0 150 L800 150" stroke="#ffffff" stroke-width="1"/>
+    <path d="M0 100 L800 100" stroke="#ffffff" stroke-width="0.5"/>
+    <path d="M0 200 L800 200" stroke="#ffffff" stroke-width="0.5"/>
+    <path d="M0 50 L800 50" stroke="#ffffff" stroke-width="0.3"/>
+    <path d="M0 250 L800 250" stroke="#ffffff" stroke-width="0.3"/>
+    
+    <path d="M100 0 L100 300" stroke="#ffffff" stroke-width="0.3"/>
+    <path d="M200 0 L200 300" stroke="#ffffff" stroke-width="0.3"/>
+    <path d="M300 0 L300 300" stroke="#ffffff" stroke-width="0.3"/>
+    <path d="M400 0 L400 300" stroke="#ffffff" stroke-width="0.3"/>
+    <path d="M500 0 L500 300" stroke="#ffffff" stroke-width="0.3"/>
+    <path d="M600 0 L600 300" stroke="#ffffff" stroke-width="0.3"/>
+    <path d="M700 0 L700 300" stroke="#ffffff" stroke-width="0.3"/>
+  </g>
+  
+  <!-- Glowing Lines and Nodes -->
+  <g opacity="0.8">
+    <!-- Financial Chart-like Pattern -->
+    <path d="M50 220 L130 180 L200 210 L270 150 L350 190 L420 120 L500 150 L580 100 L650 120 L720 80" 
+          fill="none" stroke="#4d7aff" stroke-width="3"/>
+    
+    <!-- Decorative Nodes -->
+    <circle cx="50" cy="220" r="4" fill="#4d7aff"/>
+    <circle cx="130" cy="180" r="4" fill="#4d7aff"/>
+    <circle cx="200" cy="210" r="4" fill="#4d7aff"/>
+    <circle cx="270" cy="150" r="4" fill="#4d7aff"/>
+    <circle cx="350" cy="190" r="4" fill="#4d7aff"/>
+    <circle cx="420" cy="120" r="4" fill="#4d7aff"/>
+    <circle cx="500" cy="150" r="4" fill="#4d7aff"/>
+    <circle cx="580" cy="100" r="4" fill="#4d7aff"/>
+    <circle cx="650" cy="120" r="4" fill="#4d7aff"/>
+    <circle cx="720" cy="80" r="4" fill="#4d7aff"/>
+  </g>
+  
+  <!-- Lumfi Logo (Smaller Version) -->
+  <g transform="translate(180, 90) scale(0.5)">
+    <!-- Background Circle -->
+    <circle cx="100" cy="100" r="90" fill="#1a1a2e" stroke="#4d7aff" stroke-width="2"/>
+    
+    <!-- Outer Glowing Ring -->
+    <circle cx="100" cy="100" r="80" fill="none" stroke="#4d7aff" stroke-width="4" stroke-opacity="0.8"/>
+    
+    <!-- Inner Light Pattern -->
+    <path d="M100 30 L120 70 L160 80 L130 110 L140 150 L100 130 L60 150 L70 110 L40 80 L80 70 Z" fill="none" stroke="#64ffda" stroke-width="3" stroke-linejoin="round"/>
+    
+    <!-- Central 'L' for Lumfi -->
+    <path d="M75 60 L75 120 L125 120" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Fi element -->
+    <path d="M110 90 L125 75 L140 95 L155 65" fill="none" stroke="#64ffda" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Decorative nodes -->
+    <circle cx="75" cy="60" r="5" fill="#ffffff"/>
+    <circle cx="75" cy="120" r="5" fill="#ffffff"/>
+    <circle cx="125" cy="120" r="5" fill="#ffffff"/>
+    <circle cx="110" cy="90" r="4" fill="#64ffda"/>
+    <circle cx="125" cy="75" r="4" fill="#64ffda"/>
+    <circle cx="140" cy="95" r="4" fill="#64ffda"/>
+    <circle cx="155" cy="65" r="4" fill="#64ffda"/>
+  </g>
+  
+  <!-- Lumfi Text -->
+  <text x="400" y="150" font-family="Arial, sans-serif" font-size="70" font-weight="bold" fill="#ffffff" text-anchor="middle">LUMFI</text>
+  
+  <!-- Tagline -->
+  <text x="400" y="190" font-family="Arial, sans-serif" font-size="24" fill="#64ffda" text-anchor="middle">Illuminating Decentralized Finance</text>
+</svg>

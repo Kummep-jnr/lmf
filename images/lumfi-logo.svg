@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#1a1a2e"/>
+  
+  <!-- Outer Glowing Ring -->
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#4d7aff" stroke-width="4" stroke-opacity="0.8"/>
+  
+  <!-- Inner Light Pattern - Representing Financial Growth -->
+  <path d="M100 30 L120 70 L160 80 L130 110 L140 150 L100 130 L60 150 L70 110 L40 80 L80 70 Z" fill="none" stroke="#64ffda" stroke-width="3" stroke-linejoin="round"/>
+  
+  <!-- Central 'L' for Lumfi -->
+  <path d="M75 60 L75 120 L125 120" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Fi element - simplified financial chart -->
+  <path d="M110 90 L125 75 L140 95 L155 65" fill="none" stroke="#64ffda" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Decorative nodes -->
+  <circle cx="75" cy="60" r="5" fill="#ffffff"/>
+  <circle cx="75" cy="120" r="5" fill="#ffffff"/>
+  <circle cx="125" cy="120" r="5" fill="#ffffff"/>
+  <circle cx="110" cy="90" r="4" fill="#64ffda"/>
+  <circle cx="125" cy="75" r="4" fill="#64ffda"/>
+  <circle cx="140" cy="95" r="4" fill="#64ffda"/>
+  <circle cx="155" cy="65" r="4" fill="#64ffda"/>
+</svg>
